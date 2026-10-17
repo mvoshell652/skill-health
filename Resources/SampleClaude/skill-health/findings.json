@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "audited": { "supabase-basics": "2026-10-17T20:49:00Z", "git-hygiene": "2026-10-17T20:49:00Z", "python-env": "2026-10-17T20:49:00Z" },
+  "findings": [
+    {
+      "id": "1A0E1B49-6E88-56AE-AC43-AE8FE9B63955",
+      "skillName": "supabase-basics",
+      "severity": "breaks",
+      "skillSays": "const { user, error } = await supabase.auth.signIn({ email, password })",
+      "trueNow": "supabase-js v2 has no auth.signIn method, so this call fails. Sign in with a password using auth.signInWithPassword({ email, password }), which returns { data, error }.",
+      "source": "https://supabase.com/docs/reference/javascript/v1/upgrade-guide",
+      "foundOn": "2026-10-17T20:49:00Z",
+      "wrongSince": { "written": { "on": "2026-10-10T00:00:00Z" } },
+      "suggestedText": "const { data, error } = await supabase.auth.signInWithPassword({ email, password })",
+      "keptBySecondCheck": true
+    }
+  ]
+}

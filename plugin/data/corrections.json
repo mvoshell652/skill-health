@@ -1,0 +1,1531 @@
+{
+  "checked" : [
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "accessibility-auditor",
+      "tree" : "3deb5e55134e8c51442900c8c3b3db7b83b5c54f"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "accessibility-testing",
+      "tree" : "ae6775eba08dd1beb41e3231e22120ff0aa45d25"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "ai-sdk",
+      "tree" : "90ac6157bd196d861ae58aa346aa8b4c3df015da"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "anthropic-sdk",
+      "tree" : "baede3e72086f026aedf60da1160198f542e3a94"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "browser-debugging",
+      "tree" : "8898658a2b78746adbbaaa597755bf28c081a857"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "code-simplification",
+      "tree" : "825c7d66b79b6fc11b42646f5f0ebfc8a0019db5"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "color-accessibility",
+      "tree" : "b4dd9f2f28e9802495ab5ff9c44e8a4feb5a1bee"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "contract-review",
+      "tree" : "c599088efd0600e98cc526f5fdae26adbd84c84a"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "contrast-check",
+      "tree" : "db755d663019269282849fea2c7dec2a7bceb3cb"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "copywriting",
+      "tree" : "c96cadd9baae9c729d33076feb48ecf81beaa7bf"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "csv-parse",
+      "tree" : "5665011ed133e078fbf9d73ee5237daf223bff8f"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "database-indexing-strategy",
+      "tree" : "248bb778f67e82b9fff5f9e53558ff506a62ef80"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "database-migrations",
+      "tree" : "4aa027ddebc031b0441dac387694aa5739e4be95"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "database-query-performance",
+      "tree" : "6d0ca4796169b3612b544fd1bb1d58d454953a6f"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "design-system-creation",
+      "tree" : "495d2796160127ca02b1d94fef278ef8822bbadb"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "docker-containerization",
+      "tree" : "ab0d4186948464380a58ec7c6b18b4e9655d4159"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "expo",
+      "tree" : "de2fb749ff585a3874b477f05e13c0d0d1df3c4a"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "figma-api",
+      "tree" : "6b9848af512310cf507ee38f4c061941a75df6fd"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "figma-to-code",
+      "tree" : "7effe5da18caf20e645c5673104e77080082a8ca"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "firebase",
+      "tree" : "bfd29036b5f61bce623973319b8f5cac21715ee6"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "gcloud",
+      "tree" : "4e0ea943b23d5b7d8f4a2e2e1d103293eeab0f91"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "gcp-auth",
+      "tree" : "7452516f882670f6c46b0e9fb61311cca3712cba"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "gcp-bigquery",
+      "tree" : "42b8cc9e17094b202b8d83542d6ba036dff86799"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "gcp-cloud-run",
+      "tree" : "208502e414f51f214294d50708cd4a1fb63fc08e"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "gcp-firestore",
+      "tree" : "950164cffd8884d4d8f513e2bf8b85a919228283"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "gcp-waf-cost-optimization",
+      "tree" : "75a608419704b89d433527343046c9627fe01699"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "gcp-waf-security",
+      "tree" : "357192a823f5ec3472b364be07e4897e97cf58e8"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "information-architecture",
+      "tree" : "fae7974a7cc3c000f7443a1b26c4e16e0f1826e0"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "interaction-design",
+      "tree" : "b40fa68f7301ab45f775397798fee6d8bca1c63d"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "ios-design-system",
+      "tree" : "0ad81f9a6ffc98e118c127d659749a9841439657"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "ios-navigation",
+      "tree" : "4483b2cff78ef597f40a211821e96a8ba567a352"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "ios-swift-development",
+      "tree" : "304efd032aeb0147dc556df1c85597b5f16d363f"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "kpi-dashboard-design",
+      "tree" : "aee1e1d8e6b575254d4f3bf549b2eec175e58592"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "leaflet",
+      "tree" : "5b1614b1ec97692e018d1b88e044737b559ccb05"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "nextjs",
+      "tree" : "359258065d845051640f096a6655648ccafe9998"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "oh-my-claudecode",
+      "tree" : "71c787230d3f271c7037fa4222750df8468e7309"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "postgresql",
+      "tree" : "e0f2fb5f51bc097704b011174c85b87fe334cd74"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "prisma",
+      "tree" : "b0ddf60050396b34f37ae692e25da12eeaaaf247"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "python-database",
+      "tree" : "d8c44503d8254306a2a2d4828166eae16c665ead"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "python-error-handling",
+      "tree" : "2fa0026a843833199d01b2ef242af9a129938b66"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "python-language",
+      "tree" : "2fe78926a10f0b39bf305c1d95eaffd2a10f064a"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "radix-ui",
+      "tree" : "d88020e75ac6b8eb51b0e2fd8451a01d7ad42793"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "react-hooks",
+      "tree" : "4d0364e46949aaab1ae6183a6242da72fb720a9c"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "react-performance",
+      "tree" : "09f2fb25530ee139160838409383cd00451f13c1"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "react-typescript",
+      "tree" : "a4b12b60935d5217d6138fcf8e315e799db35fdb"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "recharts",
+      "tree" : "6874c5fbbb5badb08b1c6534c7d5dbeb9ae715bb"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "responsive-web-design",
+      "tree" : "d0273498ad1782b870c1d8156013a18bb55db220"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "shadcn-ui",
+      "tree" : "7b0b930df1c870d749487d3392c024ae7176d80b"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "sql-optimizer",
+      "tree" : "c1f31a57df45e95a3386bfaf983a23a5382098f1"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "stored-procedures",
+      "tree" : "017ac48312165fb93226069dd6525cfaf21e456b"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "stripe-billing",
+      "tree" : "45ec5b42174c446bc47271f3a65b01ca293278f2"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "supabase",
+      "tree" : "e1d9c5bfcfe8e13033e53f77a5037d9844d77957"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "swift-swiftui",
+      "tree" : "989905ab361d70dec6e1c1b1a4cfb288207f8a50"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "tailwindcss",
+      "tree" : "84895578e5ce2de1a14e40c8849513446545d590"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "tanstack-query",
+      "tree" : "25e599d4fee2d159b38ab91e28cb915226ff0543"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "testing-library",
+      "tree" : "f8de0b2c4b3b3d28fc7f7041482fb92fdbe5ba1f"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "ui-ux-pro-max",
+      "tree" : "fa4eaa5efe7dffa31855910374d45527c777c81e"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "vite",
+      "tree" : "be0893f1e8ae883e69581cd5351107b671b1e2ff"
+    },
+    {
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "skill" : "vite",
+      "tree" : "fea69a749bf47c8aafc1b2dab8e02f97b0ea257b"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "vitest",
+      "tree" : "e8f48c1c828cfc5b3f3fd1bc8b5d5413eeeed4cf"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "vue",
+      "tree" : "374295ce1bfd148e45391f41e49d2d38365122d0"
+    },
+    {
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "skill" : "web-scraper",
+      "tree" : "0b30be3cdb042c1725549a79bb8e34fd59790592"
+    }
+  ],
+  "corrections" : [
+    {
+      "blob" : "f07e5a317936652bc579a0e7f00cfbb8adb9d1ba",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "accessibility-auditor",
+      "skillSays" : "Large text (18px+ or 14px+ bold): minimum 3:1",
+      "source" : "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "suggestedText" : "Large text (18pt/~24px+ or 14pt/~18.5px+ bold): minimum 3:1",
+      "trueNow" : "WCAG defines large-scale text as at least 18 point, or 14 point bold. That is about 24px and 18.5px, not 18px and 14px. Following the skill's thresholds would apply the relaxed 3:1 ratio to text that needs 4.5:1.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "ai-sdk",
+      "skillSays" : "# Provider packages: @ai-sdk/google, @ai-sdk/mistral, ollama-ai-provider",
+      "source" : "https://ai-sdk.dev/providers/community-providers/ollama",
+      "trueNow" : "The AI SDK's own community-providers documentation for Ollama no longer mentions the `ollama-ai-provider` package at all -- it lists `ollama-ai-provider-v2` (and `ai-sdk-ollama`) as the current community providers.",
+      "wrongSince" : "written:2026-03-13"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "ai-sdk",
+      "skillSays" : "import { streamUI } from \"ai/rsc\";",
+      "source" : "https://ai-sdk.dev/docs/migration-guides/migration-guide-5-0",
+      "trueNow" : "The `ai/rsc` export was extracted into a separate package, `@ai-sdk/rsc`, in AI SDK 5.0. Importing `ai/rsc` from the current `ai` package (which the skill's own install command would fetch) does not resolve without adding that separate dependency.",
+      "wrongSince" : "written:2026-03-13"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "ai-sdk",
+      "skillSays" : "import { useChat } from \"ai/react\";",
+      "source" : "https://ai-sdk.dev/docs/migration-guides/migration-guide-5-0",
+      "trueNow" : "The `ai/react` export was removed in AI SDK 5.0; `useChat` must now be imported from `@ai-sdk/react`. Importing from `ai/react` against the current `ai` package fails.",
+      "wrongSince" : "written:2026-03-13"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "ai-sdk",
+      "skillSays" : "maxSteps: 5,                            // Multi-step agent loop",
+      "source" : "https://ai-sdk.dev/docs/migration-guides/migration-guide-5-0",
+      "trueNow" : "`maxSteps` was removed from `generateText`/`streamText` and from `useChat` in AI SDK 5.0, replaced by the `stopWhen` option (e.g. `stopWhen: stepCountIs(5)`).",
+      "wrongSince" : "written:2026-03-13"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "ai-sdk",
+      "skillSays" : "model: anthropic(\"claude-sonnet-4-20250514\"),",
+      "source" : "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+      "trueNow" : "Same retired model ID as in the anthropic-sdk skill: claude-sonnet-4-20250514 was deprecated 2026-04-14 and retired 2026-06-15 on Anthropic's platforms. Requests using it now fail.",
+      "wrongSince" : "since:2026-06-15"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "ai-sdk",
+      "skillSays" : "parameters: z.object({ city: z.string() }),",
+      "source" : "https://ai-sdk.dev/docs/migration-guides/migration-guide-5-0",
+      "trueNow" : "AI SDK 5.0 renamed the `tool()` helper's schema field from `parameters` to `inputSchema`. The 4.x-style `parameters` field is not the current API for the `ai` package's `tool()` helper.",
+      "wrongSince" : "written:2026-03-13"
+    },
+    {
+      "blob" : "25f74b44c92c2dbddaa821eeacd22d73e767e16f",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "ai-sdk",
+      "skillSays" : "return result.toDataStreamResponse();",
+      "source" : "https://github.com/vercel/ai/blob/main/packages/ai/src/generate-text/stream-text-result.ts",
+      "trueNow" : "The current `streamText` result reference no longer lists `toDataStreamResponse()`; the response-conversion methods today are `toUIMessageStreamResponse()`, `toTextStreamResponse()`, `pipeUIMessageStreamToResponse()` and `pipeTextStreamToResponse()`.",
+      "wrongSince" : "written:2026-03-13"
+    },
+    {
+      "blob" : "c3957576dcef4acf85156ed507db84663c27ce39",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "oldVersion",
+      "skill" : "anthropic-sdk",
+      "skillSays" : "Claude supports 200K token context windows — use this for long document analysis, large codebases, and conversations with extensive history.",
+      "source" : "https://platform.claude.com/docs/en/models/overview",
+      "trueNow" : "The current model comparison table shows Claude Sonnet 5, Claude Opus 5.5 and Claude Fable 5.1 all have a 1M-token context window; only Claude Haiku 4.5 is still 200K. 200K is no longer the general/flagship figure the skill presents it as.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "c3957576dcef4acf85156ed507db84663c27ce39",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "anthropic-sdk",
+      "skillSays" : "compatibility: 'Node.js 18+, Python 3.8+'",
+      "source" : "https://github.com/anthropics/anthropic-sdk-typescript/blob/main/README.md",
+      "trueNow" : "The anthropic-sdk-typescript README requires Node.js 20 LTS or later; Node.js 18 reached end of life on 2025-04-30. The anthropic Python package declares requires_python >=3.10, so installing it on Python 3.8 or 3.9 fails dependency resolution.",
+      "wrongSince" : "written:2026-02-24"
+    },
+    {
+      "blob" : "c3957576dcef4acf85156ed507db84663c27ce39",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "anthropic-sdk",
+      "skillSays" : "model: 'claude-sonnet-4-20250514',",
+      "source" : "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+      "trueNow" : "claude-sonnet-4-20250514 is RETIRED. Per Anthropic's model-deprecations page it was deprecated 2026-04-14 and retired 2026-06-15; 'Retired: The model is no longer available for use. Requests to retired models will fail.' Every code example in this skill (Steps 2-7) uses this exact model string, so following the skill verbatim today produces a failed API call.",
+      "wrongSince" : "since:2026-06-15"
+    },
+    {
+      "blob" : "c3957576dcef4acf85156ed507db84663c27ce39",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "anthropic-sdk",
+      "skillSays" : "thinking: {\n    type: 'enabled',\n    budget_tokens: 10000,",
+      "source" : "https://platform.claude.com/docs/en/models/overview",
+      "trueNow" : "Per the models-overview footnotes, the manual `thinking.type:\"enabled\"+budget_tokens` mode 'is deprecated on Claude Opus 4.6 and Claude Sonnet 4.6 and not accepted on later models' -- i.e. on the current default models (Sonnet 5, Opus 5.5) this parameter shape is rejected. Current models use adaptive thinking steered by an `effort` parameter instead.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "cd046098e32ca1c00d40da5889135f26e4a0d0c5",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "csv-parse",
+      "skillSays" : "cast: true,           // auto-cast numbers and booleans",
+      "source" : "https://raw.githubusercontent.com/adaltas/node-csv/master/packages/csv-parse/lib/api/index.js",
+      "suggestedText" : "cast: true,           // auto-cast numeric strings to numbers (booleans are NOT cast; use a cast function)",
+      "trueNow" : "In csv-parse, `cast: true` only converts float-like strings to numbers (via Number()). It has no boolean handling, so \"true\" and \"false\" stay strings. Non-numeric fields fall through to the cast_date parser. To get booleans, pass a custom `cast` function.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_events_timestamp USING brin ON events(created_at)",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_events_timestamp ON events USING brin (created_at)",
+      "trueNow" : "USING must follow ON table_name. With USING before ON, PostgreSQL rejects the statement with a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_locations_geom USING gist ON locations(geom);",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_locations_geom ON locations USING gist (geom);",
+      "trueNow" : "USING must follow ON table_name. With USING before ON, PostgreSQL rejects the statement with a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_logs_timestamp USING brin\nON application_logs(log_timestamp);",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_logs_timestamp\nON application_logs USING brin (log_timestamp);",
+      "trueNow" : "USING must follow ON table_name. With USING before ON, PostgreSQL rejects the statement with a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_product_sku USING hash ON products(sku);",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_product_sku ON products USING hash (sku);",
+      "trueNow" : "In PostgreSQL the USING clause comes after the table name: CREATE INDEX name ON table USING method (column). With USING before ON, the statement is a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_products_metadata USING gin ON products(metadata);",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_products_metadata ON products USING gin (metadata);",
+      "trueNow" : "USING must follow ON table_name. With USING before ON, PostgreSQL rejects the statement with a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_user_tags USING gin ON users(tags);",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_user_tags ON users USING gin (tags);",
+      "trueNow" : "USING must follow ON table_name. With USING before ON, PostgreSQL rejects the statement with a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "8d4548d5dcc8df868af24cd09b49877fe209d10c",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/postgresql-index-types.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "CREATE INDEX idx_uuid_hash USING hash ON sessions(session_id);",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "CREATE INDEX idx_uuid_hash ON sessions USING hash (session_id);",
+      "trueNow" : "USING must follow ON table_name. With USING before ON, PostgreSQL rejects the statement with a syntax error.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "47442bb56d91cbaf95241d3ff176982a0a861f93",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/single-column-indexes.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "database-indexing-strategy",
+      "skillSays" : "idx_posts_published DESC",
+      "source" : "https://www.postgresql.org/docs/current/sql-createindex.html",
+      "suggestedText" : "idx_posts_published",
+      "trueNow" : "ASC/DESC is only valid on individual key columns inside the parenthesized column list, not after the index name. The statement as written is a syntax error. The DESC inside the parentheses is already correct.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "4a5af9c8032f2398319a845eeab1821a801527dc",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "docker-containerization",
+      "skillSays" : "FROM node:18-alpine AS builder",
+      "source" : "https://raw.githubusercontent.com/nodejs/Release/main/schedule.json",
+      "suggestedText" : "FROM node:24-alpine AS builder",
+      "trueNow" : "Node.js 18 reached end of life on 2025-04-30. Node 24 is the current Active LTS (Node 22 is in maintenance). Both FROM lines in this Dockerfile use the EOL node:18-alpine.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "782c5b695b97d4f3fd1a76a65b73660ab8c8c5f4",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/docker-compose-for-multi-container.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "docker-containerization",
+      "skillSays" : "version: \"3.8\"\n\nservices:",
+      "source" : "https://docs.docker.com/reference/compose-file/version-and-name/",
+      "suggestedText" : "services:",
+      "trueNow" : "The top-level `version` property in Compose files is obsolete. Compose ignores it and prints a warning, and the supported Compose CLIs (v2 and v5) validate against the latest Compose Specification schema.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "868b2f2b2a550be824f738b54f40376f0fd00d55",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/multi-stage-builds.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "docker-containerization",
+      "skillSays" : "FROM node:18-alpine AS builder",
+      "source" : "https://raw.githubusercontent.com/nodejs/Release/main/schedule.json",
+      "suggestedText" : "FROM node:24-alpine AS builder",
+      "trueNow" : "Node.js 18 reached end of life on 2025-04-30. Node 24 is the current Active LTS. Both FROM lines in this Dockerfile use the EOL node:18-alpine.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "868b2f2b2a550be824f738b54f40376f0fd00d55",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/multi-stage-builds.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "docker-containerization",
+      "skillSays" : "RUN npm ci --only=production",
+      "source" : "https://docs.npmjs.com/cli/v11/using-npm/config",
+      "suggestedText" : "RUN npm ci --omit=dev",
+      "trueNow" : "The npm `only` config is deprecated in favor of `--omit=dev`. In this builder stage, omitting dev dependencies also usually breaks the following `npm run build`, because build tooling is normally a devDependency.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "f54ecdf9cd767dcaebcc0afe70e46a64aa08c8ec",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/python.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "docker-containerization",
+      "skillSays" : "COPY pom.xml .\nCOPY src ./src\nRUN ./mvnw package -DskipTests",
+      "source" : "https://maven.apache.org/wrapper/",
+      "suggestedText" : "COPY mvnw pom.xml ./\nCOPY .mvn .mvn\nCOPY src ./src\nRUN ./mvnw package -DskipTests",
+      "trueNow" : "The Dockerfile copies only pom.xml and src, so the Maven Wrapper script `mvnw` and its `.mvn/wrapper/` directory are not in the image. The eclipse-temurin image does not ship Maven, so `./mvnw` fails with 'not found'. The wrapper files live in the project root and `.mvn/wrapper/`, and the Dockerfile must copy them.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "f54ecdf9cd767dcaebcc0afe70e46a64aa08c8ec",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/python.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "docker-containerization",
+      "skillSays" : "FROM golang:1.21-alpine AS builder",
+      "source" : "https://go.dev/doc/devel/release",
+      "suggestedText" : "FROM golang:1.27-alpine AS builder",
+      "trueNow" : "Go 1.21 has been unsupported since Go 1.23 shipped in August 2024. The supported releases are Go 1.26 and Go 1.27.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "2d8b53c9d0c0052a87bbc4bcf295441254b24e2f",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/security-best-practices.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "docker-containerization",
+      "skillSays" : "# Run: docker scan your-image:tag",
+      "source" : "https://github.com/docker/scan-cli-plugin",
+      "suggestedText" : "# Run: docker scout cves your-image:tag",
+      "trueNow" : "The `docker scan` command (Snyk-based plugin) has been removed. Docker Scout replaces it, for example with `docker scout cves <image>`.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "2d8b53c9d0c0052a87bbc4bcf295441254b24e2f",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/security-best-practices.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "docker-containerization",
+      "skillSays" : "FROM node:18-alpine\n\n# Update packages",
+      "source" : "https://raw.githubusercontent.com/nodejs/Release/main/schedule.json",
+      "suggestedText" : "FROM node:24-alpine\n\n# Update packages",
+      "trueNow" : "Node.js 18 reached end of life on 2025-04-30, so it gets no security patches. Node 24 is the current Active LTS.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "dd04f1b2a69e9b7eb7cd573ca3e6d068b281624d",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "scripts/validate-pipeline.sh",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "docker-containerization",
+      "skillSays" : "PIPELINE_FILE=\"${{1:?Usage: $0 <pipeline_file>}}\"",
+      "source" : "https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html",
+      "suggestedText" : "PIPELINE_FILE=\"${1:?Usage: $0 <pipeline_file>}\"",
+      "trueNow" : "The bash form is `${parameter:?word}` with single braces. The doubled braces in `${{1:?...}}` are not valid parameter expansion, so bash exits with a 'bad substitution' error and the script never runs.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "1114aada234e0a916f19a53785248d9abe322c4d",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "expo",
+      "skillSays" : "Expo SDK 50+, Node.js 18+.",
+      "source" : "https://expo.dev/changelog/sdk-54",
+      "trueNow" : "Expo moved its minimum Node past 18: the SDK 54 changelog says 'Minimum Node version bumped to 20.19.4', and eas-cli declares engines ^20.18.3 || >=22.0.0.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "b436780dea68ec0a623061a560cc491a33f7cf60",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "figma-api",
+      "skillSays" : "      team_id: teamId,",
+      "source" : "https://developers.figma.com/docs/rest-api/webhooks-endpoints/",
+      "suggestedText" : "      context: \"team\",\n      context_id: teamId,",
+      "trueNow" : "The create-webhook body now takes context (team, project or file) and context_id. The team_id body field is marked deprecated in Figma's OpenAPI spec: \"This is deprecated, use 'context' and 'context_id' instead.\" The changelog entry for Webhooks V2 contexts is dated 2025-05-28.",
+      "wrongSince" : "since:2025-05-28"
+    },
+    {
+      "blob" : "b436780dea68ec0a623061a560cc491a33f7cf60",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "figma-api",
+      "skillSays" : "compatibility: \"Node.js 16+ or any HTTP client\"",
+      "source" : "https://nodejs.org/docs/latest/api/globals.html#fetch",
+      "suggestedText" : "compatibility: \"Node.js 18+ (global fetch; use a supported LTS such as 22 or 24) or any HTTP client\"",
+      "trueNow" : "Every example uses the global fetch(). Node 16 has no global fetch unless a flag is set. It is on by default only from Node 18.0.0. Node 16 and Node 18 are both end-of-life, and the supported lines are 22 and 24.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "b436780dea68ec0a623061a560cc491a33f7cf60",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "figma-api",
+      "skillSays" : "fetch(`${FIGMA_BASE}/v2/webhooks`, {",
+      "source" : "https://developers.figma.com/docs/rest-api/webhooks-endpoints/",
+      "suggestedText" : "fetch(\"https://api.figma.com/v2/webhooks\", {",
+      "trueNow" : "FIGMA_BASE is defined as https://api.figma.com/v1, so this builds https://api.figma.com/v1/v2/webhooks, which is not a Figma endpoint. The Webhooks V2 endpoint is POST /v2/webhooks on the host https://api.figma.com, with no /v1 prefix.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "55eb97c91e45a0efdab5af55e62b0b893cb8e436",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "firebase",
+      "skillSays" : "Firestore requires indexes for compound queries; the emulator/CLI suggests them automatically",
+      "source" : "https://firebase.google.com/docs/emulator-suite/connect_firestore",
+      "suggestedText" : "Firestore requires indexes for compound queries; the emulator does not check them, so test against a real project: the error for a missing index includes a link to create it, and you deploy indexes via firestore.indexes.json",
+      "trueNow" : "The Firestore emulator does not track compound indexes and runs any valid query, so it never suggests or flags missing composite indexes. Missing indexes show up as errors against real Firestore, whose message includes a console link to create the index. The CLI only deploys indexes you define in firestore.indexes.json.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "55eb97c91e45a0efdab5af55e62b0b893cb8e436",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "firebase",
+      "skillSays" : "import { getFirestore } from \"firebase-admin/firestore\";",
+      "source" : "https://firebase.google.com/docs/firestore/manage-data/add-data",
+      "suggestedText" : "import { getFirestore, FieldValue } from \"firebase-admin/firestore\";",
+      "trueNow" : "The Cloud Functions example calls FieldValue.increment(1) but never imports FieldValue. As written it fails to compile and would throw a ReferenceError. FieldValue is exported from firebase-admin/firestore alongside getFirestore.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "590f5d4fd2834d6ac66e6d4dbe2ac3af546e21a1",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-bigquery",
+      "skillSays" : ").score AS similarity",
+      "source" : "https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-similarity",
+      "suggestedText" : ") AS similarity",
+      "trueNow" : "AI.SIMILARITY returns a plain FLOAT64 cosine-similarity value, not a struct. Reading `.score` from it is a SQL error. The text-embedding form also takes an `endpoint` (for example 'text-embedding-005') or the built-in `model` argument, and the skill's call passes neither.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "590f5d4fd2834d6ac66e6d4dbe2ac3af546e21a1",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "gcp-bigquery",
+      "skillSays" : "endpoint => 'gemini-2.5-flash'\n  ).result AS is_positive",
+      "source" : "https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-generate-bool",
+      "suggestedText" : "endpoint => 'gemini-3.5-flash'\n  ).result AS is_positive",
+      "trueNow" : "Vertex AI lists gemini-2.5-flash with a retirement date of October 20, 2026 (retirement dates may be extended but not moved earlier). The AI.GENERATE_BOOL docs list only Gemini 3.x models as supported endpoints, and the default is gemini-3.5-flash-lite.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "590f5d4fd2834d6ac66e6d4dbe2ac3af546e21a1",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "gcp-bigquery",
+      "skillSays" : "endpoint => 'gemini-2.5-flash'\n  ).result AS tagline",
+      "source" : "https://docs.cloud.google.com/vertex-ai/generative-ai/docs/learn/model-versions",
+      "suggestedText" : "endpoint => 'gemini-3.5-flash'\n  ).result AS tagline",
+      "trueNow" : "Vertex AI lists gemini-2.5-flash with a retirement date of October 20, 2026 (retirement dates may be extended but not moved earlier). The suggested replacements are gemini-3.8-flash, gemini-3.5-flash-lite or gemini-3.1-flash-lite. The BigQuery AI.GENERATE docs now list only Gemini 3.x models as supported endpoints, and the default is gemini-3.5-flash-lite.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "e0ab20612d560ff3135abad39583ff7114c5b472",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "cosmetic",
+      "skill" : "gcp-cloud-run",
+      "skillSays" : "--platform managed \\",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/run/deploy",
+      "trueNow" : "The gcloud run deploy reference no longer documents --platform (managed is the only target); the flag is still accepted, so following the skill does not fail.",
+      "wrongSince" : "written:2025-11-07"
+    },
+    {
+      "blob" : "e0ab20612d560ff3135abad39583ff7114c5b472",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "gcp-cloud-run",
+      "skillSays" : "gcloud builds submit --tag gcr.io/MY_PROJECT_ID/my-app:latest",
+      "source" : "https://docs.cloud.google.com/container-registry/docs/deprecations/container-registry-deprecation",
+      "trueNow" : "Container Registry shut down on 2025-03-18 and writing images to it is unavailable; Google says gcr.io URLs hosted on Artifact Registry are not affected, and recommends Artifact Registry. Whether this command works depends on the project: it needs a gcr.io repository on Artifact Registry (one can be created on first push by a principal with the artifactregistry.repositories.createOnPush permission). The same gcr.io tag appears again in the quick start's deploy step.",
+      "wrongSince" : "written:2025-11-07"
+    },
+    {
+      "blob" : "f7dcf446764d0b6a20ebdb4dbceecb0a31cfb7a5",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "references/containerized-application-nodejs.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "gcp-cloud-run",
+      "skillSays" : "FROM node:18-alpine",
+      "source" : "https://github.com/nodejs/Release/blob/main/schedule.json",
+      "trueNow" : "Node.js 18 reached End-of-Life on 2025-04-30 and no longer receives security updates; the officially maintained LTS lines today are 20/22/24.",
+      "wrongSince" : "written:2025-11-07"
+    },
+    {
+      "blob" : "7107adca7575e288c1a19faf8f3c2554ae105c43",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "references/terraform-cloud-run-configuration.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "gcp-cloud-run",
+      "skillSays" : "resource \"google_cloud_run_service\" \"app\" {",
+      "source" : "https://github.com/hashicorp/terraform-provider-google/blob/main/website/docs/r/cloud_run_service.html.markdown",
+      "trueNow" : "The live hashicorp/google Terraform provider docs for this resource open with: 'We recommend using the google_cloud_run_v2_service resource which offers a better developer experience and broader support of Cloud Run features.' The skill's entire terraform-cloud-run-configuration.md reference is built on this non-recommended v1/Knative resource (annotations like `autoscaling.knative.dev/maxScale`, `timeout_seconds`, etc.) even though the same file's `google_cloud_run_v2_job` block correctly uses the current v2 API for the batch job.",
+      "wrongSince" : "written:2025-11-07"
+    },
+    {
+      "blob" : "7107adca7575e288c1a19faf8f3c2554ae105c43",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "references/terraform-cloud-run-configuration.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "oldVersion",
+      "skill" : "gcp-cloud-run",
+      "skillSays" : "version = \"~> 5.0\"",
+      "source" : "https://registry.terraform.io/v1/providers/hashicorp/google",
+      "trueNow" : "The hashicorp/google Terraform provider's latest published version is 8.4.0. A `~> 5.0` constraint pins to a major version three releases behind current and will not pick up the v2 Cloud Run resources' later fixes.",
+      "wrongSince" : "written:2025-11-07"
+    },
+    {
+      "blob" : "879b390568a11644675ba14c88c083c78a82ac4f",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-cost-optimization",
+      "skillSays" : "--plan=THIRTY_SIX_MONTH",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/compute/commitments/create",
+      "suggestedText" : "--plan=36-month",
+      "trueNow" : "The gcloud --plan flag accepts only the values 12-month and 36-month, not the API enum names, so THIRTY_SIX_MONTH is rejected. The --type values are also lowercase and hyphenated (default general-purpose; N2 is general-purpose-n2), so GENERAL_PURPOSE in the same command should be written general-purpose.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "879b390568a11644675ba14c88c083c78a82ac4f",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-cost-optimization",
+      "skillSays" : "Recommend Cloud Run Jobs with `--task-count` matching peak burst",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/run/jobs/create",
+      "suggestedText" : "Recommend Cloud Run Jobs with `--tasks` matching peak burst",
+      "trueNow" : "The gcloud run jobs create, update and execute commands have no --task-count flag. The flag for the number of tasks in a job is --tasks.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "# Enable Security Command Center Premium / Enterprise (org-level)",
+      "source" : "https://docs.cloud.google.com/security-command-center/docs/deprecations",
+      "suggestedText" : "# Enable Security Command Center Premium (org-level, via the Cloud console)",
+      "trueNow" : "The Security Command Center Enterprise service tier was deprecated on May 21, 2026 and shuts down on May 21, 2027. Organizations on Enterprise move to Premium automatically on or after that date.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "'artifacts', 'docker', 'images', 'sign'",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/artifacts/docker/images",
+      "trueNow" : "There is no `gcloud artifacts docker images sign` command. The subcommands are delete, describe, get-operation, list, list-vulnerabilities and scan. Binary Authorization attestations are signed with `gcloud container binauthz attestations sign-and-create`, which the reference lists under the alpha and beta tracks.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "**Security Command Center Premium/Enterprise** is non-negotiable at scale",
+      "source" : "https://docs.cloud.google.com/security-command-center/docs/deprecations",
+      "suggestedText" : "**Security Command Center Premium** is non-negotiable at scale",
+      "trueNow" : "The Security Command Center Enterprise service tier is deprecated and shuts down on May 21, 2027, when its organizations move to Premium.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "- [ ] Security Command Center Premium/Enterprise enabled at org",
+      "source" : "https://docs.cloud.google.com/security-command-center/docs/deprecations",
+      "suggestedText" : "- [ ] Security Command Center Premium enabled at org",
+      "trueNow" : "The Security Command Center Enterprise service tier is deprecated and shuts down on May 21, 2027, when its organizations move to Premium.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "--firewall-policy=global-deny-all \\",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/compute/firewall-policies/rules/create",
+      "suggestedText" : "--firewall-policy=org-baseline --organization=ORG_ID \\",
+      "trueNow" : "The policy was created with `--short-name=\"org-baseline\"`, so `global-deny-all` is not its name. When `--firewall-policy` is a short name, `rules create` also needs `--organization`.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "gcloud artifacts docker images list-vulnerabilities",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/artifacts/docker/images/list-vulnerabilities",
+      "trueNow" : "`list-vulnerabilities` takes a scan ID or a fully qualified scan resource name, plus `--location`. It does not take an image URI with a tag, so passing `${_IMAGE}:${SHORT_SHA}` fails. The scan resource has to come from the `images scan` step.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "gcloud compute firewall-policies create global-deny-all \\",
+      "source" : "https://docs.cloud.google.com/sdk/gcloud/reference/compute/firewall-policies/create",
+      "suggestedText" : "gcloud compute firewall-policies create \\",
+      "trueNow" : "`gcloud compute firewall-policies create` takes no positional argument. The policy name is set with the required `--short-name` flag, so the extra `global-deny-all` argument is rejected as unrecognized.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "gcloud dlp jobs create \\",
+      "source" : "https://docs.cloud.google.com/sensitive-data-protection/docs/creating-job-triggers",
+      "trueNow" : "No `gcloud dlp` group exists in the GA gcloud reference. `gcloud alpha dlp jobs` only has cancel, delete, describe and list. Inspection jobs are created through the DLP REST API (`projects.dlpJobs.create`) or client libraries, so `gcloud dlp jobs create --inspect-job-from-file` fails.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "90a04162233204dba01516d6bab7324e58ebf9aa",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "gcp-waf-security",
+      "skillSays" : "gcloud scc settings update --organization=ORG_ID --service=security-command-center",
+      "source" : "https://docs.cloud.google.com/security-command-center/docs/activate-scc-overview",
+      "trueNow" : "`gcloud scc` has no `settings` group. Its groups include manage, notifications, findings, muteconfigs and sources. Security Command Center Standard and Premium are activated through the Cloud console, and the activation docs give no gcloud command.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "0aa2fa78f27b401bd9968f5916ab6e71282882d9",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "scripts/scaffold-tests.sh",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "information-architecture",
+      "skillSays" : "\"${{1:?Usage: $0 <source_file> [--framework jest|pytest|mocha]}}\"",
+      "source" : "https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html",
+      "suggestedText" : "\"${1:?Usage: $0 <source_file> [--framework jest|pytest|mocha]}\"",
+      "trueNow" : "The doubled opening brace is not valid Bash parameter-expansion syntax. The documented form is ${parameter:?word}, so bash fails with 'bad substitution' and the script exits before doing anything.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "0aa2fa78f27b401bd9968f5916ab6e71282882d9",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "scripts/scaffold-tests.sh",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "information-architecture",
+      "skillSays" : "\"${{2:-jest}}\"",
+      "source" : "https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html",
+      "suggestedText" : "\"${2:-jest}\"",
+      "trueNow" : "The doubled opening brace is invalid Bash syntax, so this line also fails with 'bad substitution'. Even with the braces fixed, $2 would be the literal '--framework' when the documented '--framework jest' usage is followed, because the script never parses the flag.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "898235e10742415274aec48ea65778ae6a7a87d3",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/example.md",
+      "keptBySecondCheck" : true,
+      "repo" : "HoangNguyen0403/agent-skills-standard",
+      "severity" : "deprecated",
+      "skill" : "ios-design-system",
+      "skillSays" : "Text(\"Hello\").foregroundColor(.appPrimary)",
+      "source" : "https://developer.apple.com/documentation/swiftui/view/foregroundcolor(_:)",
+      "suggestedText" : "Text(\"Hello\").foregroundStyle(Color.appPrimary)",
+      "trueNow" : "Apple's SwiftUI documentation marks View.foregroundColor(_:) as deprecated with the note \"Use foregroundStyle(_:) instead\". The deprecation is listed as 27.2 on every platform. foregroundStyle(_:) is the replacement.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "5b37faeac922c34aa6fbba2a81b750cff8e81b3f",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/swiftui-navigation.md",
+      "keptBySecondCheck" : true,
+      "repo" : "HoangNguyen0403/agent-skills-standard",
+      "severity" : "deprecated",
+      "skill" : "ios-navigation",
+      "skillSays" : ".tabItem { Label(\"Home\", systemImage: \"house\") }",
+      "source" : "https://developer.apple.com/documentation/swiftui/view-deprecated.md",
+      "trueNow" : "View.tabItem(_:) is listed on Apple's \"Deprecated modifiers\" page, with availability iOS 13.0 through 27.2. Apple's replacement is the Tab type (iOS 18+), for example Tab(\"Home\", systemImage: \"house\", value: 0) { NavigationStack { HomeView() } }, placed directly inside TabView(selection:).",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "7f5b45dbf6cb6098e6393f4a7c8b51b07ba07fbc",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/swiftui-views.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "ios-swift-development",
+      "skillSays" : ".foregroundColor(.gray)",
+      "source" : "https://developer.apple.com/documentation/swiftui/view-deprecated.md",
+      "suggestedText" : ".foregroundStyle(.gray)",
+      "trueNow" : "View.foregroundColor(_:) is deprecated in Apple's SwiftUI docs, which say to use foregroundStyle(_:). The file also uses .foregroundColor(.blue) and .foregroundColor(.red).",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "7f5b45dbf6cb6098e6393f4a7c8b51b07ba07fbc",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/swiftui-views.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "ios-swift-development",
+      "skillSays" : ".tabItem { Label(\"Home\", systemImage: \"house\") }",
+      "source" : "https://developer.apple.com/tutorials/data/documentation/swiftui/view/tabitem(_:).json",
+      "trueNow" : "View.tabItem(_:) is deprecated on iOS, iPadOS, macOS, tvOS and watchOS. Apple's docs say to use Tab(title:image:value:content:) and its related initializers. The Profile tab uses the same deprecated modifier.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "7f5b45dbf6cb6098e6393f4a7c8b51b07ba07fbc",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/swiftui-views.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "deprecated",
+      "skill" : "ios-swift-development",
+      "skillSays" : "NavigationView {\n      ZStack {\n        if loading {",
+      "source" : "https://developer.apple.com/documentation/swiftui/navigationview.md",
+      "suggestedText" : "NavigationStack {\n      ZStack {\n        if loading {",
+      "trueNow" : "Apple's SwiftUI docs mark NavigationView (and navigationViewStyle) as deprecated, with the message \"use NavigationStack or NavigationSplitView instead\". The same pattern is repeated in ProfileView.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "e4478b644a40328cacc375edca8972e2db0a8ccd",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "scripts/validate-api.sh",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "ios-swift-development",
+      "skillSays" : "SPEC_FILE=\"${{1:?Usage: $0 <openapi_spec>}}\"",
+      "source" : "https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html",
+      "suggestedText" : "SPEC_FILE=\"${1:?Usage: $0 <openapi_spec>}\"",
+      "trueNow" : "The bash parameter expansion ${parameter:?word} takes a variable name, a positional number or an array reference. The doubled opening brace in ${{1:?...}} is not valid, so bash stops with a \"bad substitution\" error and the script never reaches its body. It should be ${1:?...}.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "e6741c38f4b1018661946423852d788b9ca08542",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "scripts/health-check.sh",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "kpi-dashboard-design",
+      "skillSays" : "SERVICE_URL=\"${{1:?Usage: $0 <service_url>}}\"",
+      "source" : "https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html",
+      "suggestedText" : "SERVICE_URL=\"${1:?Usage: $0 <service_url>}\"",
+      "trueNow" : "The doubled braces in `${{1:?...}}` are not valid bash parameter expansion. The documented form is `${parameter:?word}`, so bash stops with a \"bad substitution\" error before reaching the echo.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "d893b87acc06d6fa8c78b592e8b3a1dce999f952",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "nextjs",
+      "skillSays" : "Requires Node.js 18+",
+      "source" : "https://nextjs.org/blog/next-16",
+      "trueNow" : "Next.js 16 requires Node.js 20.9 or newer; Node.js 18 is no longer supported (the version-requirements table in the Next.js 16 announcement). Node 18 is also past end of life.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "d893b87acc06d6fa8c78b592e8b3a1dce999f952",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "nextjs",
+      "skillSays" : "then call `revalidatePath()` or `revalidateTag()` after mutations",
+      "source" : "https://nextjs.org/blog/next-16",
+      "trueNow" : "Next.js 16's Deprecations table lists 'revalidateTag() single argument | Use revalidateTag(tag, profile) for SWR, or updateTag(tag) in Actions for read-your-writes.' The single-argument call the skill shows is now explicitly deprecated.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "d893b87acc06d6fa8c78b592e8b3a1dce999f952",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "nextjs",
+      "skillSays" : "use `middleware.ts` at the project root for auth redirects, geolocation, and A/B testing with matcher config",
+      "source" : "https://nextjs.org/blog/next-16",
+      "trueNow" : "Next.js 16 renamed and deprecated this file: 'proxy.ts (formerly middleware.ts)... Rename middleware.ts -> proxy.ts... The middleware.ts file is still available for Edge runtime use cases, but it is deprecated and will be removed in a future version.'",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "3b80966badc227383d0d801e14199fa2fe05aa1b",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "oh-my-claudecode",
+      "skillSays" : "/ccg Review this PR — architecture (Codex) and UI components (Gemini)",
+      "source" : "https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/docs/MIGRATION.md",
+      "suggestedText" : "/ask codex Review this PR — architecture\n/ask antigravity Review the UI components",
+      "trueNow" : "The /ccg workflow was removed in v5.0 and no longer resolves. The documented replacement is to run `/ask codex` and `/ask antigravity` (alongside /team), then have Claude synthesize the results.",
+      "wrongSince" : "since:2026-08-24"
+    },
+    {
+      "blob" : "3b80966badc227383d0d801e14199fa2fe05aa1b",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "oh-my-claudecode",
+      "skillSays" : "/setup",
+      "source" : "https://github.com/Yeachan-Heo/oh-my-claudecode/blob/main/docs/MIGRATION.md",
+      "suggestedText" : "/omc-setup",
+      "trueNow" : "The /setup command was removed in oh-my-claudecode v5.0 (released 24 Aug 2026). The names no longer resolve, and the replacement is /oh-my-claudecode:omc-setup, or `omc setup` from a terminal.",
+      "wrongSince" : "since:2026-08-24"
+    },
+    {
+      "blob" : "3b80966badc227383d0d801e14199fa2fe05aa1b",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "oh-my-claudecode",
+      "skillSays" : "`~/.omc/config.json`:",
+      "source" : "https://raw.githubusercontent.com/Yeachan-Heo/oh-my-claudecode/main/docs/REFERENCE.md",
+      "trueNow" : "The reference documents no defaultTeamSize, defaultRole, providers or pipeline keys. `~/.omc/config.json` is a legacy path whose only documented key is `codeSimplifier`. User config lives at `~/.config/claude-omc/config.jsonc` and project config at `.claude/omc.jsonc`. Codex and Gemini default models are set with the `OMC_CODEX_DEFAULT_MODEL` and `OMC_GEMINI_DEFAULT_MODEL` environment variables, not this file.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "62c72f0398df86535c0a0c5a31127db10e38dcbe",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "postgresql",
+      "skillSays" : "Add a `search_vector` generated column using `to_tsvector('english', title || ' ' || body)`",
+      "source" : "https://www.postgresql.org/docs/18/release-18.html",
+      "suggestedText" : "Add a `search_vector` generated column declared `GENERATED ALWAYS AS (to_tsvector('english', coalesce(title, '') || ' ' || coalesce(body, ''))) STORED` (STORED is required for a GIN index on PostgreSQL 18+)",
+      "trueNow" : "Since PostgreSQL 18, a generated column is VIRTUAL unless you write STORED, and PostgreSQL 18 rejects indexes on virtual generated columns with the error 'indexes on virtual generated columns are not supported'. The example never says STORED, so on PostgreSQL 18 the next step (GIN index on the search vector column) fails unless the column is declared GENERATED ALWAYS AS (...) STORED. Also, `title || ' ' || body` yields NULL if either column is NULL, so the PostgreSQL docs example wraps each field in coalesce.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "a75a51a798da53b6178f6bcb6e93a85bf85a126d",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "prisma",
+      "skillSays" : "provider = \"prisma-client-js\"",
+      "source" : "https://www.prisma.io/docs/guides/upgrade-prisma-orm/v7",
+      "trueNow" : "Prisma ORM 7 deprecates the prisma-client-js generator ('will be removed in future releases'); new projects use the Rust-free prisma-client provider, which needs an explicit output path. The old generator block still runs today, so this is deprecated, not broken.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "c48c21362d9ac8d9e21201b21cc980e47ca1d739",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/REFERENCE.md",
+      "keptBySecondCheck" : true,
+      "repo" : "HoangNguyen0403/agent-skills-standard",
+      "severity" : "deprecated",
+      "skill" : "react-performance",
+      "skillSays" : "      height={600}\n      priority\n    />",
+      "source" : "https://nextjs.org/docs/app/api-reference/components/image",
+      "suggestedText" : "      height={600}\n      preload\n    />",
+      "trueNow" : "Since Next.js 16 (released 2025-10-21) the `priority` prop on next/image is deprecated in favor of `preload`. The docs also say that in most cases `loading=\"eager\"` or `fetchPriority=\"high\"` is the better choice.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "72bf21eb6d58922f30b686dd7a1751cd7a267e02",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "HoangNguyen0403/agent-skills-standard",
+      "severity" : "breaks",
+      "skill" : "react-typescript",
+      "skillSays" : "Use **`JSX.Element`** or **`ReactNode`** as return type.",
+      "source" : "https://react.dev/blog/2024/04/25/react-19-upgrade-guide",
+      "suggestedText" : "Use **`React.JSX.Element`** (the global `JSX` namespace is gone in @types/react 19) or **`ReactNode`** as return type.",
+      "trueNow" : "With @types/react 19 (React 19, stable 2024-12-05) the global JSX namespace is removed, so a bare `JSX.Element` fails with 'Cannot find namespace JSX' unless a shim is added. Use `React.JSX.Element` or `ReactNode`, or leave the return type inferred.",
+      "wrongSince" : "since:2024-12-05"
+    },
+    {
+      "blob" : "4fdd491ff646f4701bd57f285ef90bbb5efa16db",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "shadcn-ui",
+      "skillSays" : "import { DataTable } from \"@/components/ui/data-table\";",
+      "source" : "https://ui.shadcn.com/docs/components/data-table",
+      "suggestedText" : "// Build this yourself per the shadcn data-table guide (`npx shadcn@latest add table` + @tanstack/react-table); it is not a registry component\nimport { DataTable } from \"@/components/ui/data-table\";",
+      "trueNow" : "shadcn/ui has no installable data-table component (the registry item data-table.json returns 404). The docs say `shadcn add table` adds only the Table primitives, and you write your own DataTable around @tanstack/react-table. The docs' DataTable takes only `columns` and `data`, and has no `searchKey` prop. So this import fails, and `searchKey=\"name\"` does nothing, unless the project builds that file itself.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "4d31328c365481099a1680eff843c732716562b4",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "references/stored-procedures.md",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "stored-procedures",
+      "skillSays" : "CALL process_order('order-123', success, message);\nSELECT success, message;",
+      "source" : "https://www.postgresql.org/docs/current/sql-call.html",
+      "suggestedText" : "CALL process_order('00000000-0000-0000-0000-000000000001', NULL, NULL);\n-- CALL returns a result row containing p_success and p_message",
+      "trueNow" : "In plain SQL, `CALL` needs a placeholder for each OUT parameter, and the docs say to write `NULL` there. The docs say OUT arguments are not evaluated, so `success` and `message` receive nothing. So the bare names should error as nonexistent columns, and the follow-up `SELECT success, message;` fails too. The procedure's result row is returned by `CALL` itself. The first argument is declared UUID, so 'order-123' is also not a valid value. Only a PL/pgSQL block can pass variables for OUT parameters. OUT parameters on procedures also need PostgreSQL 14 or later.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "9f2b11324b8269d1f7d6bf8c579e02cf07018a50",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "scripts/validate-schema.sh",
+      "keptBySecondCheck" : true,
+      "repo" : "aj-geddes/useful-ai-prompts",
+      "severity" : "breaks",
+      "skill" : "stored-procedures",
+      "skillSays" : "SCHEMA_FILE=\"${{1:?Usage: $0 <schema_file>}}\"",
+      "source" : "https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html",
+      "suggestedText" : "SCHEMA_FILE=\"${1:?Usage: $0 <schema_file>}\"",
+      "trueNow" : "`${{1:...}}` is not a valid bash parameter expansion, because `{1` is neither a parameter name nor a positional parameter. Bash stops with a \"bad substitution\" error. The valid form is `${1:?word}`, with a single brace.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "14ff75f35c8da2980a0b80e593921ca5c87e9f89",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "stripe-billing",
+      "skillSays" : "await stripe.subscriptionItems.createUsageRecord(subscriptionItemId, {",
+      "source" : "https://docs.stripe.com/billing/subscriptions/usage-based-legacy/sdk-upgrade",
+      "trueNow" : "Stripe's own docs state plainly: \"The legacy usage records APIs are removed in Stripe version 2025-03-31.basil.\" Calling this method today (default/current API version) fails. Stripe's documented workaround requires dropping to `stripe.rawRequest()` with an explicit `{ apiVersion: '2025-02-24.acacia' }` override, and Stripe itself calls that \"a temporary workaround, not a migration path.\" The real replacement is `stripe.billing.meterEvents.create()` against a Billing Meter.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "14ff75f35c8da2980a0b80e593921ca5c87e9f89",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "stripe-billing",
+      "skillSays" : "recurring: { interval: \"month\", usage_type: \"metered\" },",
+      "source" : "https://docs.stripe.com/billing/subscriptions/usage-based-legacy/migration-guide",
+      "trueNow" : "Since Stripe API version 2025-03-31.basil, \"metered prices must be backed by meters.\" This price-creation call sets `usage_type: metered` with no `recurring.meter`, which is exactly the legacy shape Stripe now blocks for accounts on a current API version; the live API version today is 2026-08-26.dahlia, five releases past that cutoff.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "c021a35207d21d541e5bdc2c141dd41adfbd0408",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "supabase",
+      "skillSays" : "import { serve } from 'https://deno.land/std@0.168.0/http/server.ts';",
+      "source" : "https://supabase.com/docs/guides/ai-tools/ai-prompts/edge-functions",
+      "trueNow" : "Supabase's own current official Edge Functions guidance explicitly forbids this exact import (and also forbids `Deno.serve`): \"Do NOT use import { serve } from 'https://deno.land/std@0.168.0/http/server.ts', and do NOT use Deno.serve.\" The prescribed pattern is now `export default { fetch: async (req) => ... }`, the same contract Cloudflare Workers/Bun use.",
+      "wrongSince" : "written:2026-02-18"
+    },
+    {
+      "blob" : "ab7aa4a3688805dc912366abba5583ca4800be68",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "tailwindcss",
+      "skillSays" : "**tailwindcss-animate plugin** (powers shadcn/ui dialog/dropdown animations):",
+      "source" : "https://ui.shadcn.com/docs/tailwind-v4",
+      "suggestedText" : "**tw-animate-css** (replaces the deprecated tailwindcss-animate; powers shadcn/ui dialog/dropdown animations):",
+      "trueNow" : "shadcn/ui now uses `tw-animate-css` for these animations. `tailwindcss-animate` is deprecated there, and new shadcn projects get `tw-animate-css` by default.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "ab7aa4a3688805dc912366abba5583ca4800be68",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "tailwindcss",
+      "skillSays" : "--font-family-mono",
+      "source" : "https://tailwindcss.com/docs/theme",
+      "suggestedText" : "--font-mono",
+      "trueNow" : "In Tailwind v4 the monospace font variable is `--font-mono` (namespace `--font-*`). `--font-family-mono` is not recognized and does not change `font-mono`.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "ab7aa4a3688805dc912366abba5583ca4800be68",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "tailwindcss",
+      "skillSays" : "--font-family-sans",
+      "source" : "https://tailwindcss.com/docs/font-family",
+      "suggestedText" : "--font-sans",
+      "trueNow" : "In Tailwind v4 the font family theme namespace is `--font-*`, so the variable that drives `font-sans` is `--font-sans`. `--font-family-sans` is not a theme variable and does nothing, so the Inter override is silently ignored.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "ab7aa4a3688805dc912366abba5583ca4800be68",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "tailwindcss",
+      "skillSays" : "10. **tailwindcss-animate** — Install for entrance/exit animations",
+      "source" : "https://github.com/Wombosvideo/tw-animate-css",
+      "suggestedText" : "10. **tw-animate-css** — Install for entrance/exit animations",
+      "trueNow" : "For Tailwind v4 use `tw-animate-css` (`@import \"tw-animate-css\";`) for `animate-in`, `animate-out` and `fill-mode-*`. `tailwindcss-animate` is deprecated by shadcn/ui.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "ab7aa4a3688805dc912366abba5583ca4800be68",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "tailwindcss",
+      "skillSays" : "npm install tailwindcss-animate",
+      "source" : "https://ui.shadcn.com/docs/tailwind-v4",
+      "suggestedText" : "npm install -D tw-animate-css\n# then add to your CSS: @import \"tw-animate-css\";",
+      "trueNow" : "shadcn/ui deprecated `tailwindcss-animate` in March 2025 in favor of `tw-animate-css`. For Tailwind v4 you install `tw-animate-css` and add `@import \"tw-animate-css\";` to your CSS. The old package's README only documents loading through tailwind.config.js, and a v4 project has no JS config to register it in.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "413463bf7ca9fb565509c73bb545a348ffaeb4f8",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "testing-library",
+      "skillSays" : "environment: \"happy-dom\",",
+      "source" : "https://vitest.dev/config/globals",
+      "suggestedText" : "environment: \"happy-dom\",\n    globals: true,",
+      "trueNow" : "Vitest's `globals` option defaults to false, so `describe`, `it`, `vi` and `expect` are not defined unless imported or `globals: true` is set. The skill's test files use them without imports, so they fail with ReferenceError. RTL's automatic cleanup also needs the global `afterEach`.",
+      "wrongSince" : "undated"
+    },
+    {
+      "blob" : "27651703422b97783d2bce755ab41cde721f99c0",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "breaks",
+      "skill" : "vite",
+      "skillSays" : "Requires Node.js 16+",
+      "source" : "https://vite.dev/blog/announcing-vite8",
+      "trueNow" : "Vite 8 requires Node.js 20.19+ or 22.12+ (unchanged from Vite 7); official blog: 'Older versions like Node 16 and Node 18 are no longer supported.' The @vitejs/plugin-react and @vitejs/plugin-legacy packages on npm both declare the same `^20.19.0 || >=22.12.0` engines requirement today.",
+      "wrongSince" : "written:2026-02-19"
+    },
+    {
+      "blob" : "27651703422b97783d2bce755ab41cde721f99c0",
+      "checkedOn" : "2026-09-27T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "oldVersion",
+      "skill" : "vite",
+      "skillSays" : "optimized Rollup-based production builds",
+      "source" : "https://vite.dev/blog/announcing-vite8",
+      "trueNow" : "As of Vite 8 (March 2026), Rollup is no longer the underlying bundler by default: 'Vite 8 ships with Rolldown as its single, unified, Rust-based bundler,' replacing the previous esbuild(dev)/Rollup(build) split. A compatibility layer auto-converts existing `rollupOptions`, so configs mostly still work, but the architecture the skill describes as current is superseded.",
+      "wrongSince" : "since:2026-03-12"
+    },
+    {
+      "blob" : "b0d886bfdfb076be16e3ab212200634d2f9c8108",
+      "checkedOn" : "2026-10-10T00:00:00Z",
+      "file" : "SKILL.md",
+      "keptBySecondCheck" : true,
+      "repo" : "TerminalSkills/skills",
+      "severity" : "deprecated",
+      "skill" : "web-scraper",
+      "skillSays" : "datetime.utcnow().isoformat()",
+      "source" : "https://docs.python.org/3/library/datetime.html",
+      "suggestedText" : "datetime.now(timezone.utc).isoformat()",
+      "trueNow" : "datetime.utcnow() has been deprecated since Python 3.12. Use datetime.now(timezone.utc) instead. The snippet also never imports datetime, so as written it raises NameError. It needs `from datetime import datetime, timezone`.",
+      "wrongSince" : "undated"
+    }
+  ],
+  "updatedAt" : "2026-10-16T00:00:00Z",
+  "version" : 1
+}

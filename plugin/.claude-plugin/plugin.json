@@ -1,0 +1,23 @@
+{
+  "name": "skill-health",
+  "version": "0.6.1",
+  "description": "Checks the skills you use for instructions that no longer work, fixes them one line at a time, and updates skills that have a newer copy at their source. Tells Claude what is wrong at the start of a session, with no app needed. Mac only: needs macOS 27 or later, and jq, which ships with macOS 15 and later.",
+  "author": { "name": "Matthew Voshell" },
+  "homepage": "https://github.com/mvoshell652/skill-health",
+  "repository": "https://github.com/mvoshell652/skill-health",
+  "license": "Apache-2.0",
+  "userConfig": {
+    "session_note": {
+      "type": "boolean",
+      "title": "Session note",
+      "description": "One line at the start of a session, at most once a day, when a skill you use has a failing or deprecated instruction. Turn this and Corrections for Claude both off to stop the plugin's background refresh.",
+      "default": true
+    },
+    "corrections_for_claude": {
+      "type": "boolean",
+      "title": "Corrections for Claude",
+      "description": "Claude gets up to five corrections for failing instructions at the start of every session. Turn this and Session note both off to stop the plugin's background refresh.",
+      "default": true
+    }
+  }
+}

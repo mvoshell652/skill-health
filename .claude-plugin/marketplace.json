@@ -1,0 +1,16 @@
+{
+  "name": "skill-health",
+  "owner": {
+    "name": "Matthew Voshell"
+  },
+  "metadata": {
+    "description": "Skill Health keeps the skills you use correct. The plugin checks, fixes and updates them in Claude Code and tells Claude what is wrong at the start of a session; the Mac app is an optional window on the same results."
+  },
+  "plugins": [
+    {
+      "name": "skill-health",
+      "source": "./plugin",
+      "description": "Checks the skills you use for instructions that no longer work, fixes them one line at a time, and updates skills that have a newer copy at their source. Tells Claude what is wrong at the start of a session, with no app needed. Mac only: needs macOS 27 or later, and jq, which ships with macOS 15 and later."
+    }
+  ]
+}

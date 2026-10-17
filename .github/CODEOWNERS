@@ -1,0 +1,7 @@
+# Everything is the maintainer's to review. These are listed on purpose: what ships as the plugin's
+# executable, what it tells Claude, and the safety promises must never be changed by anyone else.
+*                               @mvoshell652
+/plugin/bin/                    @mvoshell652
+/plugin/scripts/                @mvoshell652
+/plugin/data/corrections.json   @mvoshell652
+/SECURITY.md                    @mvoshell652
